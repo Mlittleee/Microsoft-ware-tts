@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:speak xmlns:ns0="http://www.w3.org/2001/10/synthesis" version="1.0" xml:lang="en-US">
+    <ns0:voice name="zh-CN-XiaoxiaoNeural">
+        <ns0:prosody rate="0%" pitch="0%">网友自制进口豪华车国内外售价邓比榜:  只有特</ns0:prosody>
+    </ns0:voice>
+</ns0:speak>
